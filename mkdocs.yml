@@ -1,15 +1,29 @@
 site_name: SpencerDevv Site
 site_url: https://internalrblx.github.io/SpencerDevv-Website/
 
+extra:
+  version:
+    provider: mike
+
 theme:
   icon:
     logo: material/database
     repo: fontawesome/brands/git-alt
   name: material
-  favicon: images/favicon.png
+  favicon: docs/images/favicon.png
   palette:
-    primary: "Blue"
-    accent: "Blue"
+    - scheme: default
+      primary: Blue
+      accent: Blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: Dark Blue
+      accent: Dark Blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 
 nav:
   - Home: index.md
