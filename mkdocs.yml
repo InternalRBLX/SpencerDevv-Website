@@ -1,0 +1,23 @@
+site_name: SpencerDevv Site
+site_url: https://example.com/
+
+theme:
+  icon:
+    logo: material/database
+    repo: fontawesome/brands/git-alt
+  name: material
+  favicon: images/favicon.png
+  palette:
+    primary: "Blue"
+    accent: "Blue"
+
+nav:
+  - Home: index.md
+  - HeroClash DevLogs:
+    - About HeroClash: DevLogs/AboutHeroClash.md
+    - Log 01: DevLogs/Log01.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
