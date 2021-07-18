@@ -2,8 +2,8 @@
 
 ## Gameplay Options:
 
- * SinglePlayer (Complete Story Mode)
- * Multiplayer (PVP with other players)
+ * SinglePlayer **(Complete Story Mode)**
+ * Multiplayer **(PVP with other players)**
 
 ## What is the game about?
 
@@ -11,7 +11,11 @@ The game is a FPS shooter game that is similer to the game Overwatch, where ther
 
 ## Where did you learn to do networking?
 
-The networking is a extension of Tom Weilands Networking Tutorial!
+The networking is a extension of Tom Weiland's Networking Tutorial!
+
+## Schedule?
+
+Currently there is no Schedule for the game, and I have no idea when release will be available.
 
 ## Current Dev Team
 
