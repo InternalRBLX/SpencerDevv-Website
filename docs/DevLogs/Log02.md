@@ -1,4 +1,4 @@
-# Devlog 01 - Networking, Heros, Abilities!
+# Devlog 02 - Rewriting and Scriptable Objects
 #### Date: (08/11/21 - 08/19/21)
 
 ### Wednesday:
