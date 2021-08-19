@@ -30,6 +30,7 @@ nav:
   - HeroClash DevLogs:
     - About HeroClash: DevLogs/AboutHeroClash.md
     - Log 01: DevLogs/Log01.md
+    - Log 02: DevLogs/Log02.md
 
 markdown_extensions:
   - admonition
